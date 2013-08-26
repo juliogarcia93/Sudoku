@@ -12,7 +12,7 @@ C:\Users\Julio Garcia\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.exe
 C:\Users\Julio Garcia\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
 C:\Users\Julio Garcia\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe
 C:\Users\Julio Garcia\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
-C:\Users\Julio Garcia\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
 C:\Users\Julio Garcia\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Sudoku.resources
 C:\Users\Julio Garcia\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
 C:\Users\Julio Garcia\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Julio Garcia\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
